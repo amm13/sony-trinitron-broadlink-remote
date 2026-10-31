@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="320" viewBox="0 0 860 320">
+<rect width="860" height="320" rx="22" fill="#0c1322"/>
+<rect x="18" y="16" width="824" height="50" rx="10" fill="#1b2940"/>
+<text x="38" y="48" fill="#eef3ff" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Sony Trinitron · BroadLink Remote</text>
+<rect x="18" y="80" width="272" height="220" rx="12" fill="#141f31"/>
+<text x="38" y="107" fill="#c5d6f6" font-family="Arial" font-size="16">Main remote</text>
+<rect x="38" y="120" width="106" height="38" rx="8" fill="#33599c"/><text x="58" y="145" fill="white" font-family="Arial" font-size="15">POWER</text>
+<rect x="155" y="120" width="116" height="38" rx="8" fill="#263e64"/><text x="177" y="145" fill="white" font-family="Arial" font-size="15">MENU</text>
+<g font-family="Arial" font-size="16" text-anchor="middle" fill="white">
+<rect x="38" y="172" width="67" height="40" rx="8" fill="#263e64"/><text x="71" y="197">VOL +</text>
+<rect x="110" y="172" width="67" height="40" rx="8" fill="#263e64"/><text x="143" y="197">VOL −</text>
+<rect x="182" y="172" width="89" height="40" rx="8" fill="#263e64"/><text x="226" y="197">INFO</text>
+</g>
+<rect x="38" y="226" width="40" height="29" rx="6" fill="#c9374e"/><rect x="84" y="226" width="40" height="29" rx="6" fill="#329c6a"/><rect x="130" y="226" width="40" height="29" rx="6" fill="#e8bb42"/><rect x="176" y="226" width="40" height="29" rx="6" fill="#4385d4"/>
+<rect x="304" y="80" width="266" height="220" rx="12" fill="#141f31"/>
+<text x="324" y="107" fill="#c5d6f6" font-family="Arial" font-size="16">TV &amp; inputs</text>
+<rect x="324" y="125" width="226" height="43" rx="8" fill="#263e64"/><text x="379" y="152" fill="white" font-family="Arial" font-size="17">SOURCE / AV</text>
+<rect x="324" y="180" width="226" height="48" rx="8" fill="#27785a"/><text x="363" y="210" fill="white" font-family="Arial" font-size="17">RGB SCART</text>
+<text x="331" y="259" fill="#92a3bd" font-family="Arial" font-size="13">Configurable input sequence</text>
+<rect x="584" y="80" width="258" height="220" rx="12" fill="#141f31"/>
+<text x="604" y="107" fill="#c5d6f6" font-family="Arial" font-size="16">Advanced</text>
+<rect x="603" y="125" width="219" height="43" rx="8" fill="#59413e"/><text x="639" y="152" fill="white" font-family="Arial" font-size="16">SERVICE MODE</text>
+<rect x="603" y="180" width="219" height="43" rx="8" fill="#263e64"/><text x="665" y="207" fill="white" font-family="Arial" font-size="16">CUSTOM IR</text>
+<text x="605" y="260" fill="#92a3bd" font-family="Arial" font-size="13">Local network control</text>
+</svg>
