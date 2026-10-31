@@ -4,7 +4,7 @@ A **visual remote control for classic Sony Trinitron TVs**, using a **BroadLink 
 
 This community project includes Sony RM-833-style keys, source selection, an optional configurable **RGB SCART shortcut**, a confirmed-on-some-models Sony service-mode sequence, and user-learned/custom IR commands. **It is not affiliated with Sony or BroadLink.**
 
-![Interface preview](docs/interface-preview.png)
+![Interface preview](docs/interface-preview.svg)
 
 ## Quick start
 
